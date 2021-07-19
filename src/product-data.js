@@ -46,7 +46,7 @@ export const products = [
         price: 15000,
         rating: 3,
         image: 'https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/AXCFXD0WLLW4R/B075455J14/Pqg7MGsHQcaw._UX970_TTW__.jpg',
-        description:  "Potensic F183DH RC Quadcopter Drone cambia la forma en que vemos el mundo! Excelente tecnología ALTITUDE-HOLD Con su sensor de presión de aire de alta densidad incorporado, el dron establecerá automáticamente y mantendrá el vuelo estable a una cierta altura, lo que hace que sea mucho más fácil controlar y obtener videos y fotos estables de alta calidad; un dron perfecto para cualquier nivel de experiencia. El sistema de control de giroscopio de 6 ejes más nuevo Con el sistema de control de giroscopio de 6 ejes, este dron F181DH tiene una excelente estabilidad de vuelo así como facilidad de operación. Puede manejar más choques que otros cuadricópteros normales. FPV Transmisión en tiempo real Acompañado con una pantalla de monitor, ver vídeo en vivo en tiempo real sin usar su smartphone. Rollover de 360 grados Con solo pulsar el botón 3D, puedes realizar un giro fresco de 360 grados durante el vuelo con una excelente estabilidad..",
+        description:  "Potensic F183DH RC Quadcopter Drone cambia la forma en que vemos el mundo! Excelente tecnología ALTITUDE-HOLD Con su sensor de presión de aire de alta densidad incorporado, el dron establecerá automáticamente y mantendrá el vuelo estable a una cierta altura.",
 
     },
     {
@@ -56,7 +56,7 @@ export const products = [
         price: 35000,
         rating: 4,
         image: 'https://www.adslzone.net/app/uploads-adslzone.net/2015/12/drones-camara.jpg',
-        description:  "Este es un componente muy atractivo en este tipo de dispositivos ya que nos permitirán, además de volar el gadget, que es precisamente el principal objetivo de los drones con cámaras, grabar desde el aire todo aquellos que nos rodee. En el mercado existen, como ya muchos sabéis, multitud de modelos dentro de una amplia variedad de precios y características.",
+        description:  "Este es un componente muy atractivo en este tipo de dispositivos ya que nos permitirán, además de volar el gadget, que es precisamente el principal objetivo de los drones con cámaras, grabar .",
 
     },
     {

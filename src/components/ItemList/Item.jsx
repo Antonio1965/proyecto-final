@@ -1,21 +1,20 @@
-// import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
+
 
 export const Item = ({ item }) => {
   return (
-    // <Link to={`/item/${item.id}`}>
+    <Link to={`/item/${item.id}`}>
       <div className="card-item">
-        <img src='https://th.bing.com/th/id/OIP.xsKYJ5zq2I4jMp-AEM_3dQHaEj?pid=ImgDet&rs=1' alt='Drone' />
+        <img src={item.image} alt={item.title} />
         <div className="text">
-          <strong>Drone-2021</strong>
+          <strong>{item.name}</strong>
           <hr></hr>
-          <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Incidunt, reiciendis!
-
-          </p>
+          <p>{item.description}</p>
           <p>
-            Precio: <span>15000</span>
+            Precio: <span>{item.price}</span>
           </p>
         </div>
       </div>
-    // </Link>
+    </Link>
   );
 };
