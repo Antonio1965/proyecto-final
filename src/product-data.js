@@ -46,7 +46,7 @@ export const products = [
         price: 15000,
         rating: 3,
         image: 'https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/AXCFXD0WLLW4R/B075455J14/Pqg7MGsHQcaw._UX970_TTW__.jpg',
-        description:  "Potensic F183DH RC Quadcopter Drone cambia la forma en que vemos el mundo! Excelente tecnología ALTITUDE-HOLD Con su sensor de presión de aire de alta densidad incorporado, el dron establecerá automáticamente y mantendrá el vuelo estable a una cierta altura.",
+        description:  "Potensic F183DH RC Quadcopter Drone cambia la forma en que vemos el mundo! Excelente tecnología ALTITUDE-HOLD.",
 
     },
     {
