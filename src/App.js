@@ -6,7 +6,7 @@ import { Footer } from './components/General/Footer';
 // import { Item } from './components/ItemList/Item';
 import { ItemListContainer } from './components/ItemList/ItemListContainer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import { ItemDetailContainer } from './components/ItemDetail/ItemDetailContainer';
+import { ItemDetail } from './components/ItemDetail/ItemDetail';
 
 
 export const App =( ) => {
@@ -18,8 +18,8 @@ export const App =( ) => {
       <Route path='/'>
     <ItemListContainer/>
     </Route>
-    <Route paht='/item/:id'>
-      <ItemDetailContainer/>
+    <Route exact paht='/item/:id'>
+      <ItemDetail/>
     </Route>
     {/* <Item/> */}
     {/* <Loader/>
